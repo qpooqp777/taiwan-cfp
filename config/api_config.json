@@ -1,0 +1,10 @@
+{
+  "api_key": "your-api-key-here",
+  "api_endpoint": "https://data.moenv.gov.tw/api/v2/CFP_P_02",
+  "timeout": 30,
+  "retry_count": 3,
+  "cache_enabled": true,
+  "cache_ttl": 86400,
+  "cache_dir": "data/cache",
+  "log_level": "INFO"
+}
